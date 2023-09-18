@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anumnaveed1989
-- 👀 I’m interested in back end development.
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on microservices in golang.
+- 👀 I’m interested in font-end development.
+- 🌱 I’m currently learning state management using React Redux.
+- 💞️ I’m looking to collaborate on Building responsive websites using Reactjs.
 - 📫 How to reach me anumnaveed1989@gmail.com
 
 <!---
